@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1545925956 source:h:\zuoye ji he\prim\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"head.h"
+
+1545922332 h:\zuoye ji he\prim\head.h
+	<iostream>
+	<cstring>
+	<fstream>
+

@@ -1,0 +1,9 @@
+(A,B) weight:58
+(B,D) weight:14
+(B,G) weight:23
+(G,J) weight:1
+(G,E) weight:4
+(J,I) weight:18
+(E,F) weight:21
+(E,C) weight:42
+(F,H) weight:57

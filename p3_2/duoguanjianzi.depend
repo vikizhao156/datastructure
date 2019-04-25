@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544945577 source:h:\zuoye ji he\duoguanjianzi\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

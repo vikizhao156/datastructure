@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539659421 source:h:\zuoye ji he\duoxiagshi\main.cpp
+	"Node.h"
+	<iostream>
+
+1539617427 h:\zuoye ji he\duoxiagshi\node.h
+	<iostream>
+
+1539658159 source:h:\zuoye ji he\duoxiagshi\node.cpp
+	"Node.h"
+	<iostream>
+

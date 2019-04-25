@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545221987 source:h:\zuoye ji he\paixubijiao\main.cpp
+	"paixu.h"
+
+1545220199 h:\zuoye ji he\paixubijiao\paixu.h
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<iomanip>
+

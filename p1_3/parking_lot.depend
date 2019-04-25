@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540713544 source:h:\zuoye ji he\parking_lot\main.cpp
+	<iostream>
+	"parking_lot_manage.h"
+
+1540712865 source:h:\zuoye ji he\parking_lot\parking_lot_manage.cpp
+	<iostream>
+	"parking_lot_manage.h"
+
+1540700054 h:\zuoye ji he\parking_lot\parking_lot_manage.h
+	<iostream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543715934 source:h:\zuoye ji he\huffmantree\main.cpp
+	<iostream>
+	"Huffman.h"
+	<fstream>
+	<cstring>
+	<string>
+	<cmath>
+	<stdio.h>
+
+1543711961 h:\zuoye ji he\huffmantree\huffman.h
+	<iostream>
+

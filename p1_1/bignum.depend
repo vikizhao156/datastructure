@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541244415 source:h:\zuoye ji he\bignum\bignum.cpp
+	<iostream>
+	<cstring>
+	"bignum.h"
+
+1541244423 h:\zuoye ji he\bignum\bignum.h
+	<iostream>
+	<cstring>
+
+1541129102 source:h:\zuoye ji he\bignum\main.cpp
+	<iostream>
+	"bignum.h"
+	<cstring>
+
